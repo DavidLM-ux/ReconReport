@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 ![Python](https://img.shields.io/badge/python-3.6+-green.svg)
+[![Bash](https://img.shields.io/badge/bash-%3E%3D4.0-green.svg)](https://www.gnu.org/software/bash/)
 
 ![License](https://img.shields.io/badge/license-GPL-orange.svg)
 
