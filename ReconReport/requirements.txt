@@ -1,0 +1,15 @@
+# Requirements pour Recon Report V1.0
+# Installation : pip install -r requirements.txt
+
+# Bibliothèque pour les scans nmap
+python-nmap==0.7.1
+nmap3==1.6.0
+
+# Bibliothèque pour le menu interactif
+simple-term-menu==1.6.4
+
+# Note: Les outils suivants doivent être installés séparément sur le système :
+# - nmap : sudo apt install nmap (Debian/Ubuntu) ou brew install nmap (macOS)
+# - sslscan : sudo apt install sslscan (Debian/Ubuntu)
+# - whatweb : sudo apt install whatweb (Debian/Ubuntu)
+# - amass : sudo apt install amass (Debian/Ubuntu) ou https://github.com/owasp-amass/amass
